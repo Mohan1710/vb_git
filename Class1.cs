@@ -5,12 +5,13 @@ public class Class1
 	public Class1()
 	{
 		
-	 static void Main(string[] args)
-		{
+	 
 			int a = 10;
 			int b = 12;
-			int c = a + b; 
-			Console.WriteLine(c);
+			int d = 22;
+			int c = a + b;
+		
+			Console.WriteLine(c+d);
 		}
 		}
 }
